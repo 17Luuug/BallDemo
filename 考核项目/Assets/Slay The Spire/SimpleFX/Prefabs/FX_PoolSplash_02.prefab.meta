@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d37f80e5a9508346b0ec65e1917e053
+timeCreated: 1496248185
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20001064
+  packageName: "Simple FX - \u5361\u901A\u7C92\u5B50\u7279\u6548\uFF08Cartoon Particles)(\u56FE\u7247\u672A\u722C\u53D6\uFF09"
+  packageVersion: 1.2.0
+  assetPath: Assets/SimpleFX/Prefabs/FX_PoolSplash_02.prefab
+  uploadId: 0

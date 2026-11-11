@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e49530225d7db488c609706952a7bb, type: 3}
+  m_Name: NaiLong
+  m_EditorClassIdentifier: Assembly-CSharp::HeroData
+  <Image>k__BackingField: {fileID: 21300000, guid: 53de14812d4c41b4ca3dbabeaba85689, type: 3}
+  <Health>k__BackingField: 99
+  <Deck>k__BackingField:
+  - {fileID: 11400000, guid: a4b9a928286be554fa72e06abddeda65, type: 2}
+  - {fileID: 11400000, guid: a4b9a928286be554fa72e06abddeda65, type: 2}
+  - {fileID: 11400000, guid: a4b9a928286be554fa72e06abddeda65, type: 2}
+  - {fileID: 11400000, guid: a4b9a928286be554fa72e06abddeda65, type: 2}
+  - {fileID: 11400000, guid: a4b9a928286be554fa72e06abddeda65, type: 2}
+  - {fileID: 11400000, guid: a4b9a928286be554fa72e06abddeda65, type: 2}
+  - {fileID: 11400000, guid: a4b9a928286be554fa72e06abddeda65, type: 2}
+  - {fileID: 11400000, guid: a4b9a928286be554fa72e06abddeda65, type: 2}
+  - {fileID: 11400000, guid: 144662b260aaf6c4abcfa6ff55968e28, type: 2}
+  - {fileID: 11400000, guid: 144662b260aaf6c4abcfa6ff55968e28, type: 2}
+  - {fileID: 11400000, guid: 144662b260aaf6c4abcfa6ff55968e28, type: 2}
+  - {fileID: 11400000, guid: 144662b260aaf6c4abcfa6ff55968e28, type: 2}
+  - {fileID: 11400000, guid: 144662b260aaf6c4abcfa6ff55968e28, type: 2}
+  - {fileID: 11400000, guid: 144662b260aaf6c4abcfa6ff55968e28, type: 2}
